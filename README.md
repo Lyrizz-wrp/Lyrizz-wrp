@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#007ACC;">👩‍💻 Waritsara Panla</h1>
 <p align="center">
-  <strong>Data Analyst | Statistics Graduate | Thai NLP Enthusiast</strong><br/>
+  <strong>Data Analyst | Statistics Graduate  </strong><br/>
   <em>Driven by data, inspired by inclusion</em>
 </p>
 
