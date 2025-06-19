@@ -134,7 +134,7 @@ Issued: May 2024
 
 ## 📫 Get in Touch
 
-- 🌐 LinkedIn: [linkedin.com/in/yourname](https://th.linkedin.com/in/waritsara-panla)
+- 🌐 LinkedIn: (https://th.linkedin.com/in/waritsara-panla)
 - 📧 Email: waritsara.pa02@gmail.com
 - 📁 Portfolio: [yourportfolio.link](https://yourportfolio.link)
 
