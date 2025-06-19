@@ -1,82 +1,145 @@
-<h1 align="center">👩‍💻 Wrisara Panla</h1>
-<p align="center">📊 Data Analyst | 📚 Statistics Graduate | 🇹🇭 Thai NLP Enthusiast</p>
-
----
-
-### 🎓 About Me
-Hi! I'm **Waritsara**, a recent graduate in **Statistics and Data Science** from Khon Kaen University.  
-I love using **data to solve real-world problems** and am passionate about making tools that are **inclusive and practical** — especially for Thai users.
-
-- 🏆 **Award**: Outstanding Oral Presentation - KKU Research Conference 2025  
-- 🧩 Interested in: Data Analysis, Business Intelligence, Thai NLP  
-- 🛠 Tools: SQL, Excel, Python, Power BI, Streamlit  
-
----
-
-### 🛠️ Skills & Tools
-
-| Language | Tools & Libraries | Visualization | Workflow |
-|----------|-------------------|---------------|----------|
-| ![Python](https://img.shields.io/badge/-Python-blue?logo=python) | pandas, numpy, matplotlib | Power BI, Tableau | Git, GitHub |
-| ![SQL](https://img.shields.io/badge/-SQL-informational?logo=mysql) | PyThaiNLP, spaCy (basic) | Excel (PivotTable, Charts) | Streamlit, VS Code |
-
----
-## 🛠️ Skills & Tools
-
-### 👩‍💻 Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<h1 align="center" style="color:#007ACC;">👩‍💻 Waritsara Panla</h1>
+<p align="center">
+  <strong>Data Analyst | Statistics Graduate | Thai NLP Enthusiast</strong><br/>
+  <em>Driven by data, inspired by inclusion</em>
 </p>
 
-### 📊 Data Analysis & Visualization
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-</p>
+---
 
-### 🌐 Web & Dashboard
-<p align="left">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS" width="40" height="40"/>
-</p>
+## 🧭 About Me
 
-### 🧠 NLP Tools
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/61288888?s=200&v=4" alt="PyThaiNLP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" alt="spaCy" width="40" height="40"/>
-</p>
+Hi! I'm Waritsara, a recent graduate in Statistics and Data Science from Khon Kaen University 🇹🇭.  
+I enjoy working with data to generate practical insights, build interactive tools, and communicate results clearly — especially for Thai users.
 
+✨ Highlights:
 
-### 🚀 Highlight Projects
-
-#### 🔤 Thai Sign Language Web App
-> Convert Thai text to video clips in Thai sign language  
-Tech: Python, Streamlit, PyThaiNLP  
-📍 [View Project](https://github.com/username/sign-language-app)
-
-#### 📈 Economic Insight from Import Data
-> Explore Thailand import trends to suggest career demand  
-Tech: Excel, Python, Seaborn  
-📍 [View Project](https://github.com/username/import-economy-insight)
+- 🏆 Received Outstanding Oral Presentation Award @ KKU Research Conference
+- 🧩 Created a Thai Sign Language Translator Web App with Python & NLP
+- 🤝 Passionate about simplifying data for real-world decisions
 
 ---
 
-### 📚 Currently Learning
-- 🔍 Data pipeline automation
-- 🧠 System analysis workflow
-- 📊 Interactive dashboards with real data
+## 💼 Featured Projects
+
+🔤 Thai Sign Language Learning Web App  
+A web tool that converts Thai text into Thai Sign Language videos using PyThaiNLP & Streamlit  
+🔗 GitHub: https://github.com/yourusername/sign-language-app
+
+📦 Thailand Import Data Analysis  
+Analyzed economic import trends to identify high-demand job sectors  
+🔗 GitHub: https://github.com/yourusername/import-economy-insight
 
 ---
 
-### 📬 Contact Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourname)
-- ✉️ Email: waritsara.pa02@gmail.com
+## 🔧 Skills & Tools
+
+### 🧹 Data Cleaning & Preparation  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/spss.png" alt="SPSS" width="40"/>
+</p>
+
+### 📊 Statistical Analysis  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/spss.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scipy_Logo.svg/1280px-Scipy_Logo.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Statsmodels_logo.svg" width="60"/>
+</p>
+
+### 📈 Data Visualization  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+</p>
+
+### 🗄️ Database & Querying  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40"/>
+</p>
+
+### 📝 Reporting & Communication  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RMarkdown.svg" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/spss.png" width="40"/>
+</p>
+
+---
+
+## 🧾 Licenses & Certifications
+
+<p align="left">
+
+🔹 <strong>Introduction to Computer Science</strong> – BorntoDev  
+Issued: Jun 2025  
+<a href="https://school.borntodev.com/certificate/Be2bmEAAlVzS?trk=public_profile_see-credential" target="_blank">
+  <img src="https://img.shields.io/badge/View-Credential-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+🔹 <strong>Introduction to Computer Science (Graphic)</strong> – BorntoDev  
+Issued: Jun 2025  
+<a href="https://school.borntodev.com/certificate/EcZgnlU2TJsB?trk=public_profile_see-credential" target="_blank">
+  <img src="https://img.shields.io/badge/View-Credential-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+🔹 <strong>Essential SQL for Everyone</strong> – BorntoDev  
+Issued: May 2025  
+<a href="https://school.borntodev.com/certificate/undefined" target="_blank">
+  <img src="https://img.shields.io/badge/View-Credential-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+🔹 <strong>Excellent Research Presentation (Math & Stats)</strong> – Faculty of Science, Khon Kaen University  
+Issued: Mar 2025  
+<a href="https://cert.sc.kku.ac.th/certimg.php?r=783&k=301A97C7&trk=public_profile_see-credential" target="_blank">
+  <img src="https://img.shields.io/badge/View-Credential-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+🔹 <strong>User Experience Design for Mobile App Development</strong> – Mahidol University (ICT)  
+Issued: Feb 2025  
+<a href="https://mux.mahidol.ac.th/edxphp/getcer/8718bfa541385ab1d447234dab8ae880078e8f59" target="_blank">
+  <img src="https://img.shields.io/badge/View-Credential-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+🔹 <strong>GitHub for Developer</strong> – BorntoDev  
+Issued: May 2024  
+<a href="https://school.borntodev.com/certificate/tU4yL3y2makP" target="_blank">
+  <img src="https://img.shields.io/badge/View-Credential-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- SQL Performance & Indexing
+- Interactive Dashboards with real-time data
+- System Analysis & Documentation
+- Packaging Python tools for reuse
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 LinkedIn: [linkedin.com/in/yourname](https://th.linkedin.com/in/waritsara-panla)
+- 📧 Email: waritsara.pa02@gmail.com
+- 📁 Portfolio: [yourportfolio.link](https://yourportfolio.link)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=007ACC" alt="Profile views"/>
+</p>
