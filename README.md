@@ -47,8 +47,6 @@ Analyzed economic import trends to identify high-demand job sectors
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/spss.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scipy_Logo.svg/1280px-Scipy_Logo.svg.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Statsmodels_logo.svg" width="60"/>
 </p>
 
 ### 📈 Data Visualization  
