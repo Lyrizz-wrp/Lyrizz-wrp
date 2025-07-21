@@ -23,11 +23,11 @@ I enjoy working with data to generate practical insights, build interactive tool
 
 🔤 Thai Sign Language Learning Web App  
 A web tool that converts Thai text into Thai Sign Language videos using PyThaiNLP & Streamlit  
-🔗 GitHub: https://github.com/yourusername/sign-language-app
+🔗 GitHub: [https://github.com/yourusername/sign-language-app](https://github.com/Lyrizz-wrp/Web-Application-for-Thai-Sign-Language-Learning.git)
 
 📦 Thailand Import Data Analysis  
 Analyzed economic import trends to identify high-demand job sectors  
-🔗 GitHub: https://github.com/yourusername/import-economy-insight
+🔗 GitHub: [https://github.com/yourusername/import-economy-insight](https://github.com/Lyrizz-wrp/portfolio-performance-analysis-5-years.git)
 
 ---
 
